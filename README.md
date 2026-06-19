@@ -26,7 +26,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VorozhbitDM&layout=compact&hide_border=true&langs_count=8&hide=powershell,batchfile,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VorozhbitDM&layout=compact&hide_border=true&langs_count=8&hide=powershell,batchfile,html&theme=github_dark)
 
 ---
 
