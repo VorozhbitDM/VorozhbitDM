@@ -23,11 +23,9 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VorozhbitDM&layout=compact&hide_border=true&langs_count=8&hide=powershell,batchfile,html&theme=github_dark)
-
----
-
 ## Стек
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VorozhbitDM&layout=compact&hide_border=true&langs_count=8&hide=powershell,batchfile,html&theme=github_dark)
 
 ![1C](https://img.shields.io/badge/1C%3AEnterprise-BSL-yellow?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
