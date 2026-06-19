@@ -2,9 +2,6 @@
 
 > Разрабатываю open-source инструменты для **1С:Предприятие**
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40QIQTPP-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QIQTPP)
-[![Email](https://img.shields.io/badge/Email-denqiqtp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denqiqtp@gmail.com)
-
 ### ⭐ Основной проект
 
 [![Access-control-1C](https://img.shields.io/badge/Access--control--1C-Анализ_прав_доступа_в_1С-FFD700?style=for-the-badge)](https://github.com/VorozhbitDM/Access-control-1C)
@@ -43,5 +40,8 @@
 ## Сейчас
 
 - Поддержка и развитие **Access-control-1C**
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40QIQTPP-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QIQTPP)
+[![Email](https://img.shields.io/badge/Email-denqiqtp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denqiqtp@gmail.com)
 
 ---
