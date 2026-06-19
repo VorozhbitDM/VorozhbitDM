@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Denis Vorozhbit
-
 > Разрабатываю open-source инструменты для **1С:Предприятие**
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40QIQTPP-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QIQTPP)
@@ -9,9 +7,12 @@
 
 ### ⭐ Основной проект
 
-[![Access-control-1C](https://img.shields.io/badge/Access--control--1C-Анализ_и_контроль_прав_доступа_в_1С-FFD700?style=for-the-badge)](https://github.com/VorozhbitDM/Access-control-1C)
+[![Access-control-1C](https://img.shields.io/badge/Access--control--1C-Анализ_прав_доступа-FFD700?style=for-the-badge)](https://github.com/VorozhbitDM/Access-control-1C)
+
 [![Stars](https://img.shields.io/github/stars/VorozhbitDM/Access-control-1C?style=for-the-badge&logo=github&label=★%20stars&color=gold)](https://github.com/VorozhbitDM/Access-control-1C/stargazers)
-[![License](https://img.shields.io/github/license/VorozhbitDM/Access-control-1C?style=for-the-badge&logo=opensourceinitiative&logoColor=white&label=MIT)](https://github.com/VorozhbitDM/Access-control-1C/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/VorozhbitDM/Access-control-1C/total?style=for-the-badge&logo=github&label=downloads&color=blue)](https://github.com/VorozhbitDM/Access-control-1C/releases)
+[![License MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/VorozhbitDM/Access-control-1C/blob/main/LICENSE)
+
 
 ---
 
