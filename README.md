@@ -21,7 +21,6 @@
 | [**ProxyPulse-MTProto-android**](https://github.com/VorozhbitDM/ProxyPulse-MTProto-android) | Поиск и проверка MTProto-прокси из публичных источников (андроид). |
 | [**ProxyPulse-MTProto-for-TG**](https://github.com/VorozhbitDM/ProxyPulse-MTProto-for-TG) | То же для Windows. |
 
----
 
 ## Стек
 
@@ -33,8 +32,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-AI%20tools-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
 ## Сейчас
 
 - Поддержка и развитие **Access-control-1C**
@@ -42,4 +39,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%40QIQTPP-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QIQTPP)
 [![Email](https://img.shields.io/badge/Email-denqiqtp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denqiqtp@gmail.com)
 
----
