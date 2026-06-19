@@ -5,7 +5,7 @@
 ### ⭐ Основной проект
 
 [![Access-control-1C](https://img.shields.io/badge/Access--control--1C-Анализ_прав_доступа_в_1С-FFD700?style=for-the-badge)](https://github.com/VorozhbitDM/Access-control-1C)
-[![Stars](https://img.shields.io/github/stars/VorozhbitDM/Access-control-1C?style=for-the-badge&logo=github&label=★%20stars&color=gold)](https://github.com/VorozhbitDM/Access-control-1C/stargazers)
+[![Stars](https://img.shields.io/github/stars/VorozhbitDM/Access-control-1C?style=for-the-badge&logo=github&label=★%20stars&color=red)](https://github.com/VorozhbitDM/Access-control-1C/stargazers)
 [![Downloads](https://img.shields.io/github/downloads/VorozhbitDM/Access-control-1C/total?style=for-the-badge&logo=github&label=downloads&color=blue)](https://github.com/VorozhbitDM/Access-control-1C/releases)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&color=green)](https://github.com/VorozhbitDM/Access-control-1C/blob/main/LICENSE)
 
